@@ -49,6 +49,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=italotrt&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"
          align="center" />
 </div>
+<br />
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=italotrt&&style=flat-square" align="center" />
 </div>
