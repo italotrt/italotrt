@@ -62,13 +62,12 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=1" /></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=italotrt&&style=flat-square" align="center" />
-</div>  
-  
+</div>
 
 <br/>
