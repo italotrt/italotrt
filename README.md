@@ -1,6 +1,6 @@
 ## Greetings 👋
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Hello There" align=center size=320x241>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="Hello There" align=center size=225x170>
 
 ## My Stats
 
