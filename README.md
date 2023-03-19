@@ -9,11 +9,6 @@
 </div>
 <br />
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=italotrt&&style=flat-square" align="center" />
-</div>
-<br />
-
 ## My Skill Set
 <td valign="top" width="33%">
     <div align="center">
@@ -49,10 +44,9 @@
 
 ## Github Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&count_private=true&hide_border=true&theme=dracula"
-        align="center" />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=italotrt&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"
-        align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=italotrt&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <img src="https://komarev.com/ghpvc/?username=italotrt&&style=flat-square" align="center" />
 </div>
 <br />
 
