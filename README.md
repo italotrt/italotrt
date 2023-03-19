@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 #### Stats
 
-[![italotrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=italotrt)](https://github.com/anuraghazra/github-readme-stats)
+![Italotrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&theme=radical)
