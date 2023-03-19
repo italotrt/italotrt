@@ -1,6 +1,6 @@
 ## Greetings 👋
 
-<img align="middle" alt="Hello There" width="300" src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif">
+<img align="right" alt="Hello There" width="400" src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif">
 
 ## My Stats
 
