@@ -1,11 +1,7 @@
-## Greetings 👋
-
-<img align="middle" alt="Hello There" width="400" src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif">
-
 ##
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
