@@ -2,15 +2,11 @@
     <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" align="center" style="width: 100%" />
 </div>
 
-
 ### <div align="center">I'm Italo, a Computer Science Student in UL 👨‍🎓📚</div>
-
 
 <div align="center">🌱 As long as you are learning, you are not failing. 🌱</div>
 
-
 <br />
-
 
 ## My Skill Set
 <td valign="top" width="33%">
@@ -45,6 +41,15 @@
 
 <br />
 
+## Github Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&count_private=true&hide_border=true&theme=dracula"
+        align="center" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=italotrt&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"
+        align="center" />
+</div>
+
+<br />
 
 ## Connect with me
 <div align="center">
@@ -62,21 +67,7 @@
     </a>
 </div>
 
-
 <br />
-
-
-## Github Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&count_private=true&hide_border=true&theme=dracula"
-        align="center" />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=italotrt&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"
-        align="center" />
-</div>
-
-<br />
-
-
 
 <br />
 
