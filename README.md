@@ -37,7 +37,7 @@
 <br />
 
 <div align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=1" align="center" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=2" align="center" />
 </div>
 
 <br />
