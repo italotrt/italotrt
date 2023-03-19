@@ -1,6 +1,6 @@
 ## Greetings 👋
 
-<img src="[[https://rishavanand.github.io/static/images/greetings.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primogif.com%2Fp%2FpLiyRPqPyxy7e&psig=AOvVaw2P-aTLgDxSi0RnqUFk2udv&ust=1679340523834000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDnvY3d6P0CFQAAAAAdAAAAABAe)](https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif)" alt="Hello There" align=center size=225x170>
+<img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" alt="Hello There" align=center size=225x170>
 
 ## My Stats
 
