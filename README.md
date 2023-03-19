@@ -63,7 +63,7 @@
 <br/>  
 
 <div align="center">
-  ![Spotify Recently played](https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=1)
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=1" align="center" />
 </div>  
 
 <br/>  
