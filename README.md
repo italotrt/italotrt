@@ -1,5 +1,3 @@
-##
-
 <div align="center">
 <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" align="center" style="width: 100%" />
 </div>  
