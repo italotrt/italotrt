@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 #### Stats
 
-![Italotrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&theme=radical)
+![Italotrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&theme=dracula)
