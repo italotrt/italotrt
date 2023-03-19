@@ -40,6 +40,16 @@
 
 <br />
 
+## Github Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&count_private=true&hide_border=true&theme=dracula"
+        align="center" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=italotrt&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"
+        align="center" />
+</div>
+
+<br />
+
 ## Connect with me
 <div align="center">
     <a href="https://github.com/italotrt" target="_blank">
@@ -54,17 +64,6 @@
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
             alt=instagram style="margin-bottom: 5px;" />
     </a>
-</div>
-
-
-<br />
-
-## Github Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&count_private=true&hide_border=true&theme=dracula"
-        align="center" />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=italotrt&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"
-        align="center" />
 </div>
 
 <br />
