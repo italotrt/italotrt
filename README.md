@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-#### Stats
-
 ![Italotrt's GitHub stats](https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=italotrt)](https://git.io/streak-stats)
