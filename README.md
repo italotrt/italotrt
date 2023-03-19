@@ -9,6 +9,11 @@
 </div>
 <br />
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=italotrt&&style=flat-square" align="center" />
+</div>
+<br />
+
 ## My Skill Set
 <td valign="top" width="33%">
     <div align="center">
@@ -70,10 +75,5 @@
 
 <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=1" align="center" />
-</div>
-<br />
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=italotrt&&style=flat-square" align="center" />
 </div>
 <br />
