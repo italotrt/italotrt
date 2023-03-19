@@ -62,7 +62,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=1" /></div>  
+<div align="center">![Recently played](https://spotify-recently-played-readme.vercel.app/api?user=satake02&count={1})</div>  
 
 <br/>  
 
