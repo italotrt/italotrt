@@ -76,6 +76,8 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=1" align="center" />
 </div>
 
+<br />
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=italotrt&label=Profile%20Views&color=11&icon=5&pretty=true" />
 </a>
