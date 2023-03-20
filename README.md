@@ -51,7 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&count_private=true&hide_border=true&theme=dracula"
          align="center" width="400" />
     <img src="http://github-readme-streak-stats.herokuapp.com?user=italotrt&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"
-         align="center" width="400" />
+         align="center" width="420" />
 </div>
 <br />
 
