@@ -54,9 +54,9 @@
          align="center" />
 </div>
 <br />
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=italotrt&&style=flat-square" align="center" />
-</div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=italotrt&label=Profile%20Views&color=11&icon=5&pretty=true" />
+</a>
 <br />
 
 ## Connect with me
