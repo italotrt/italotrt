@@ -49,14 +49,10 @@
 ## Github Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&count_private=true&hide_border=true&theme=dracula"
-         align="center" />
+         align="center" width="200" />
     <img src="http://github-readme-streak-stats.herokuapp.com?user=italotrt&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"
-         align="center" />
+         align="center" width="200" />
 </div>
-<br />
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=italotrt&label=Profile%20Views&color=11&icon=5&pretty=true" />
-</a>
 <br />
 
 ## Connect with me
@@ -79,4 +75,8 @@
 <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=1" align="center" />
 </div>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=italotrt&label=Profile%20Views&color=11&icon=5&pretty=true" />
+</a>
 <br />
