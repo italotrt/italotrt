@@ -50,9 +50,9 @@
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italotrt&theme=dracula"
          align="center" width="400" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italotrt&theme=dracula"
-         align="center" width="400" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italotrt&theme=dracula&utcOffset=8"
+         align="center" width="400" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italotrt&theme=dracula"
          align="center" width="400" />
 </div>
 <br />
