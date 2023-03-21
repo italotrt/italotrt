@@ -53,7 +53,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italotrt&theme=dracula&utcOffset=8"
          align="center" width="300" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italotrt&theme=dracula"
-         align="center" width="700" />
+         align="center" width="600" />
 </div>
 <br />
 
