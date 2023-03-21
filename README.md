@@ -70,10 +70,9 @@
 </div>
 <br />
 
-<div align="center">
    <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=satake02&count=1" align="center" width="300" /> -->
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=satake02&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0a0a&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=satake02&redirect=true)
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=satake02&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0a0a&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=satake02&redirect=true)
+
 
 <br />
 
