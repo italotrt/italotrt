@@ -48,7 +48,11 @@
 
 ## Github Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=italotrt&show_icons=true&count_private=true&hide_border=true&theme=dracula"
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italotrt&theme=dracula"
+         align="center" width="400" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italotrt&theme=dracula"
+         align="center" width="400" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italotrt&theme=dracula&utcOffset=8"
          align="center" width="400" />
 </div>
 <br />
