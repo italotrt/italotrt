@@ -1,10 +1,4 @@
-<style>
-body {
-  background-image: url('https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif');
-}
-</style>
-
-<body>
+<body style="background-image: url('https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif');">
 <div align="center">
     <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" align="center" style="width: 100%" />
 </div>
