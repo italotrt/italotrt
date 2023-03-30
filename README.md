@@ -2,7 +2,7 @@
     <img src="https://media0.giphy.com/media/pLiyRPqPyxy7e/giphy.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Italo, a Computer Science Student in UL 👨‍🎓📚</div>
+### <div align="center">I'm Italo, a Computer Games Developer Student in UL 👨‍🎓📚</div>
 
 <div align="center">
     🌱 As long as you are learning, you are not failing. 🌱
