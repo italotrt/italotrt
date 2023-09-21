@@ -71,7 +71,9 @@
 <br />
 
 <div align="center">
+    <!---
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=satake02&cover_image=true&theme=novatorem&show_offline=true&background_color=0a0a0a&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=satake02&redirect=true)" alt="Spotify" />
+    --->
 </div>
 
 <br />
@@ -79,4 +81,5 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=italotrt&label=Profile%20Views&color=11&icon=5&pretty=true" />
 </a>
+
 <br />
