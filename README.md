@@ -9,6 +9,7 @@
 </div>
 <br />
 
+<!---
 ## My Skill Set
 <td valign="top" width="33%">
     <div align="center">
@@ -45,6 +46,7 @@
     </a>
     </div>
 </td>
+--->
 
 ## Github Stats
 <div align="center">
